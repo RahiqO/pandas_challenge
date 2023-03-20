@@ -1,3 +1,13 @@
 School Type,Average Math Score,Average Reading Score,% Passing Math,% Passing Reading,% Overall Passing
 Charter,83.47385187384614,83.89642074222549,93.62083003509466,96.58648927302872,90.43224369343227
 District,76.95673306832398,80.96663632734915,66.54845257144746,80.79906211395057,53.67220822778149
+
+Summarizes the analysis: 
+In the Charter schools, it appears that the group of students performed well overall. The average math score of 83.47 is above average, as is the average reading score of 83.90. Additionally, the percentage of students who passed math (93.62%) and reading (96.59%) is high, and the overall passing rate (90.43%) is also quite good.
+
+In contrast, in the District schools the group of students did not perform as well as the first group. The average math score of 76.96 is below average, as is the average reading score of 80.97. Furthermore, the percentage of students who passed math (66.55%) and reading (80.80%) is lower than in the first group, and the overall passing rate (53.67%) is substantially lower.
+
+Draws two correct conclusions or comparisons from the calculations:
+The Charters schools outperformed the Districts schools. The average math score, average reading score, and percentage of students passing math, reading, and overall are all higher in Charter schools than District schools. This suggests that there may be factors that contribute to better academic performance among the first group of students, such as higher quality teaching, more resources, or a more supportive learning environment.
+
+While the charters schools performed well overall, the percentage of students passing math is notably lower than the percentage passing reading. In contrast, the District schools had a larger gap between the percentage passing math and the percentage passing reading. This suggests that there may be specific challenges or areas for improvement related to math instruction, curriculum, or support. Schools or educators may want to focus on strategies to improve math performance and close the gap between math and reading achievement.
